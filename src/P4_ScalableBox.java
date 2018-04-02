@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 public class P4_ScalableBox {
 	
-	
+	// I don't understand how to make this part interactive ????????
 public static final int height= 10;
 public static final int width= 4;
 	

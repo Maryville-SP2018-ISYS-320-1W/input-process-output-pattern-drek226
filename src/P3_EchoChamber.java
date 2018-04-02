@@ -13,7 +13,7 @@ import java.util.*;
 
 public class P3_EchoChamber {
 
-	private static final String repeat = null;
+	
 
 	public static void main(String[] args) {
 		Scanner console = new Scanner(System.in); 
@@ -24,6 +24,7 @@ public class P3_EchoChamber {
 	
 		System.out.println("How many times should I repeat it? ");
 		Phrase = console.nextLine();
+		
 		
 		
 		// How do I get the lines to repeat the correct amount of times? 
